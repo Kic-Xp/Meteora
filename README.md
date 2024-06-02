@@ -13,7 +13,6 @@ Este é um projeto de desenvolvimento web utilizando HTML, CSS e Bootstrap. O ob
 - **Bootstrap 5:** Framework CSS utilizado para estilização e criação da interface.
 - **HTML5:** Estruturação do conteúdo web.
 - **CSS3:** Personalização adicional de estilos.
-- **JavaScript:** Implementação de funcionalidades dinâmicas (se aplicável).
 
 ## Como Utilizar
 
